@@ -10450,6 +10450,7 @@ html textarea.form-input {
     display: inline-block;
     text-transform: uppercase;
     color: #42464f;
+    background: #ffffff;
 }
 
 .rd-navbar-static .rd-navbar-nav > li > a:hover, .rd-navbar-fullwidth .rd-navbar-nav > li > a:hover {
