@@ -1181,9 +1181,9 @@
         });
 
         // Google maps
-        if( plugins.maps.length ) {
-            lazyInit( plugins.maps, initMaps );
-        }
+        // if( plugins.maps.length ) {
+        //     lazyInit( plugins.maps, initMaps );
+        // }
 
         // Custom Waypoints
         if (plugins.customWaypoints.length && !isNoviBuilder) {
