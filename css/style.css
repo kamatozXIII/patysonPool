@@ -3180,7 +3180,7 @@ em {
     content: '';
     width: 157px;
     height: 68px;
-    background: url("../images/add-w.png");
+/*    background: url("../images/add-w.png");*/
     bottom: 100%;
     left: 50%;
     -moz-transform: translateX(-50%);
@@ -3221,7 +3221,7 @@ em {
     content: '';
     width: 157px;
     height: 68px;
-    background: url("../images/add-p.png");
+/*    background: url("../images/add-p.png");*/
     bottom: 100%;
     left: 50%;
     -moz-transform: translateX(-50%);
@@ -3262,7 +3262,7 @@ em {
     content: '';
     width: 157px;
     height: 68px;
-    background: url("../images/add-s.png");
+/*    background: url("../images/add-s.png");*/
     bottom: -68px;
     left: 50%;
     -moz-transform: translateX(-50%);
@@ -11465,4 +11465,3 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
     }
 }
 
-/*# sourceMappingURL=style.css.map */
