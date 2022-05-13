@@ -4234,6 +4234,27 @@ main {
     padding-top: 40px;
     padding-bottom: 68px;
 }
+.well1 ul{
+    margin-bottom: 1.5rem;
+}
+@media (max-width: 650px) {
+    .well1 h2{
+        padding-bottom: 0;
+        font-size: 20px;
+        line-height: 5px;
+    }
+    .well1 ul {
+        margin-bottom: 3px;
+        font-size: 16px;
+    }
+    .well1 a.phone-icon {
+        font-size: 15px;
+    }
+    .well1 h4{
+        font-size: 10px;
+        line-height: 15px;
+    }
+}
 
 .well1_ins {
     padding-bottom: 129px;
@@ -6681,11 +6702,11 @@ html .page .group-top > *, html .page .group-top > *:first-child {
 }
 
 .google-map {
-    height: 800px;
+    height: 100%;
     width: 100%;
 }
 
-@media (min-width: 480px) {
+/*@media (min-width: 480px) {
     .google-map {
         height: 800px;
     }
@@ -6695,7 +6716,7 @@ html .page .group-top > *, html .page .group-top > *:first-child {
     .google-map {
         height: 618px;
     }
-}
+}*/
 
 .gm-style-iw > div > div {
     padding-right: 10px;
